@@ -7,7 +7,7 @@
     Try changing "table" to "view" below
 */
 
-/* Added extra comment *//
+/* Added extra comment */
 
 {{ config(materialized='table') }}
 
